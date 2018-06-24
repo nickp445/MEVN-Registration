@@ -2,3 +2,5 @@ To run this you must navigate to the client folder and run npm install.
 Then install these packages via npm >> express mongoose body-parser cors nodemon
 Next from the client folder use the command npm run dev
 Next from the client folder run nodemon server.js
+Server runs on PORT 3100
+Client runs on PORT 8080
